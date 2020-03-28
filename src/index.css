@@ -9,7 +9,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px;
-  background-color: #e4aa7b;
+  background-color: #e4b690;
 }
 
 code {
@@ -37,7 +37,7 @@ h2 {
 h3 {
   font-family: 'Bungee', cursive;
   color: #283645;
-  font-size: 2em;
+  font-size: 2.6em;
   margin: 0px;
   padding: 0px;
 }
