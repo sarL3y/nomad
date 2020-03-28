@@ -16,12 +16,6 @@ function Brands() {
                     
                 </div>
                 <div className="brand-container container-margin border">
-                    
-                </div>
-                <div className="brand-container container-margin border">
-
-                </div>
-                <div className="brand-container container-margin border">
 
                 </div>
                 <div className="brand-container container-margin border">
