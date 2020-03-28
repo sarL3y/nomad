@@ -3,6 +3,12 @@
     flex-direction: column;
 }
 
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
 .justify-center {
     justify-content: center;
 }
@@ -15,6 +21,53 @@
     width: 100vw;
 }
 
+.large-width {
+    width: 80vw;
+}
+
 .full-height {
     min-height: 100vh;
 }
+
+.section-header-container {
+
+}
+
+.package-container-large {
+    flex: 3;
+    height: 60vh;
+    width: 100%;
+}
+
+.package-container-small {
+    flex: 2;
+    height: 50vh;
+    width: 100%;
+}
+
+.brand-container {
+    flex: 1;
+    height: auto;
+    min-height: 100px;
+}
+
+.service-container {
+    width: 60vw;
+    height: 50vh;
+}
+
+.review-container {
+    flex: 1;
+    height: 40vh;
+    width: 100%;
+}
+
+.container-margin {
+    margin: 24px;
+}
+
+.border {
+    border: 3px solid black;
+    border-radius: 12px;
+}
+

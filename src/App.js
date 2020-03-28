@@ -6,7 +6,6 @@ import './sass/containers/containers.scss';
 import Landing from './pages/landing';
 import About from './pages/about';
 
-import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
 import './sass/containers/containers.scss';
@@ -19,8 +18,6 @@ const routes = [
 function App() {
 	return (
 		<div className="full-width flex-column">
-			<Navbar />
-
 			{routes.map(({ path, Component }) => (
 				<Route key={path} exact path={path}>
 					<Component />
