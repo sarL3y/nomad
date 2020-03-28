@@ -14,3 +14,31 @@
 .package-header-text-large {
     font-size: 48px;
 }
+
+.package-info {
+    margin-top: 12px;
+    margin-left: 12px;    
+    color: #283645;
+    font-size: 20px;
+    word-wrap: wrap;
+}
+
+.appointment {
+    font-weight: bold;
+    // font-family: 'Bungee', cursive;
+    background-color: #283645;
+    color: white;
+    margin-top: 14px; 
+}
+
+.button-large {
+    padding: 12px 30px;
+    border-radius: 6px;
+    font-size: 20px;
+}
+
+.button-small {
+    padding: 10px 26px;
+    border-radius: 6px;
+    font-size: 18px;
+}
