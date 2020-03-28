@@ -9,19 +9,19 @@ function Brands() {
                 <h3>Brands</h3>
             </div>
             <div className="flex-row large-width justify-center align-center">
-                <div className="brand-container container-margin border">
+                <div className="brand-container container-margin">
 
                 </div>
-                <div className="brand-container container-margin border">
+                <div className="brand-container container-margin">
                     
                 </div>
-                <div className="brand-container container-margin border">
+                <div className="brand-container container-margin">
 
                 </div>
-                <div className="brand-container container-margin border">
+                <div className="brand-container container-margin">
 
                 </div>
-                <div className="brand-container container-margin border">
+                <div className="brand-container container-margin">
 
                 </div>
             </div>

@@ -9,18 +9,18 @@ function Footer() {
         <div className="footer-wrapper">
             <footer className="footer">
                 <div className="footer-grow">
-                    <a href="https://www.linkedin.com/in/matt-tapper" target="_blank" rel="noopener noreferrer">
-                        Link #1
+                    <a href="https://www.yelp.com/biz/nomad-bike-repair-los-angeles?osq=nomad+bike+repair" target="_blank" rel="noopener noreferrer">
+                        Yelp
                     </a>
                 </div>
                 <div className="footer-grow">
-                    <a href="https://www.github.com/sarL3y/" target="_blank" rel="noopener noreferrer">
-                        Link #2
+                    <a href="https://www.instagram.com/nomadbikerepair/" target="_blank" rel="noopener noreferrer">
+                        Instagram
                     </a>
                 </div>
                 <div className="footer-grow">
-                    <a href="mailto:matt.tapper@gmail.com" target="_blank" rel="noopener noreferrer">
-                        Link #3
+                    <a href="mailto:nomadbikerepair@gmail.com" target="_blank" rel="noopener noreferrer">
+                        Email
                     </a>
                 </div>
             </footer>

@@ -9,13 +9,13 @@ function Reviews() {
                 <h3>Reviews</h3>
             </div>
             <div className="flex-row large-width justify-center align-center">
-                <div className="review-container container-margin border">
+                <div className="review-container container-margin">
 
                 </div>
-                <div className="review-container container-margin border">
+                <div className="review-container container-margin">
                     
                 </div>
-                <div className="review-container container-margin border">
+                <div className="review-container container-margin">
                     
                 </div>
             </div>

@@ -9,7 +9,7 @@ function Services() {
                 <h3>Services</h3>
             </div>
             <div className="flex-row large-width justify-center align-center">
-                <div className="service-container container-margin border">
+                <div className="service-container container-margin">
 
                 </div>
             </div>

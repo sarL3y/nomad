@@ -37,29 +37,43 @@
     flex: 3;
     height: 60vh;
     width: 100%;
+    background-color: #D6D6D6;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 12px;
 }
 
 .package-container-small {
     flex: 2;
     height: 50vh;
     width: 100%;
+    background-color: #D6D6D6;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    border-radius: 12px;
 }
 
 .brand-container {
     flex: 1;
     height: auto;
     min-height: 100px;
+    background-color: #D6D6D6;
+    border-radius: 12px;
 }
 
 .service-container {
     width: 60vw;
     height: 50vh;
+    background-color: #D6D6D6;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 12px;
 }
 
 .review-container {
     flex: 1;
     height: 30vh;
     width: 100%;
+    background-color: #D6D6D6;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    border-radius: 12px;
 }
 
 .container-margin {
@@ -68,6 +82,5 @@
 
 .border {
     border: 3px solid black;
-    border-radius: 12px;
 }
 

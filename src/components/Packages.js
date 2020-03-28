@@ -9,13 +9,13 @@ function Packages() {
                 <h3>Packages</h3>
             </div>
             <div className="flex-row large-width justify-center align-center">
-                <div className="package-container-small container-margin border">
+                <div className="package-container-small container-margin">
 
                 </div>
-                <div className="package-container-large container-margin border">
+                <div className="package-container-large container-margin">
                     
                 </div>
-                <div className="package-container-small container-margin border">
+                <div className="package-container-small container-margin">
                     
                 </div>
             </div>
