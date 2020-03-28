@@ -29,10 +29,6 @@
     min-height: 100vh;
 }
 
-.section-header-container {
-
-}
-
 .package-container-large {
     flex: 3;
     height: 60vh;
@@ -82,5 +78,40 @@
 
 .border {
     border: 3px solid black;
+}
+
+@media all and (max-width: 700px) and (min-width: 300px) {
+    .flex-row {
+        flex-direction: column;
+        flex-grow: 1;
+    }
+
+    .package-container-large {
+        min-height: 80vh;
+        min-width: 90vw;
+    }
+    
+    .package-container-small {
+        min-height: 80vh;
+        min-width: 90vw;
+    }
+
+    .brand-container {
+        min-width: 200px;
+    }
+
+    .service-container {
+        width: 90vw;
+        height: 80vh;
+    }
+
+    .section-header-container {
+        margin-top: 20vh;
+    }
+
+    .review-container {
+        min-height: 40vh;
+        min-width: 80vw;
+    }
 }
 
