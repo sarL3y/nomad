@@ -100,7 +100,7 @@
 
 @media all and (max-width: 700px) and (min-width: 300px) {
     .flex-column {
-        height: auto;
+        height: min-content;
     }
 
     .flex-row {
@@ -110,12 +110,10 @@
 
     .package-container-large {
         min-width: 90vw;
-        min-height: 100%;
     }
     
     .package-container-small {
         min-width: 90vw;
-        min-height: 100%;
     }
 
     .brand-container {
