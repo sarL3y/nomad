@@ -23,6 +23,22 @@
     word-wrap: wrap;
 }
 
+.price {
+    position: absolute;
+    font-family: 'Bungee', cursive;
+    transform: rotate(20deg); 
+    right: -10px;
+    top: -5px;
+}
+
+.price-large {
+    font-size: 54px;
+}
+
+.price-small {
+    font-size: 44px;
+}
+
 .appointment {
     font-weight: bold;
     // font-family: 'Bungee', cursive;

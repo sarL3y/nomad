@@ -33,6 +33,14 @@
     text-align: center;
 }
 
+.position-relative {
+    position: relative;
+}
+
+.section-header-container {
+    margin-bottom: 4vh;
+}
+
 .package-container-large {
     flex: 3;
     height: 60vh;
@@ -112,6 +120,7 @@
 
     .section-header-container {
         margin-top: 20vh;
+        margin-bottom: 2vh;
     }
 
     .review-container {
