@@ -99,6 +99,10 @@
 }
 
 @media all and (max-width: 700px) and (min-width: 300px) {
+    .flex-column {
+        height: auto;
+    }
+
     .flex-row {
         flex-direction: column;
         flex-grow: 1;
